@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LN8oGB2S2piIEW9dI3yR1jc+X5Q7WOCc/g/bwH73bzRXPbsn6TJSmAs/PpPll7mvo4FLjhRdkpwiIyd6pkFkeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\norma\\Desktop\\Python\\Prueba\\prueba-backend\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\norma\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
