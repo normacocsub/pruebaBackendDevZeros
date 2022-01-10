@@ -9,10 +9,22 @@
       "BLL/1.0.0": {
         "dependencies": {
           "DAL": "1.0.0",
-          "Entity": "1.0.0"
+          "Entity": "1.0.0",
+          "Infraestructure": "1.0.0"
         },
         "runtime": {
           "BLL.dll": {}
+        }
+      },
+      "EntityFrameworkCore.Triggers/1.2.3": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/EntityFrameworkCore.Triggers.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -461,6 +473,8 @@
       "DAL/1.0.0": {
         "dependencies": {
           "Entity": "1.0.0",
+          "EntityFrameworkCore.Triggers": "1.2.3",
+          "Infraestructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
         },
@@ -475,6 +489,11 @@
         "runtime": {
           "Entity.dll": {}
         }
+      },
+      "Infraestructure/1.0.0": {
+        "runtime": {
+          "Infraestructure.dll": {}
+        }
       }
     }
   },
@@ -483,6 +502,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFrameworkCore.Triggers/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mnO/imDMIM6tIYrdIqbOqzj8KFYdY3n/kBOSQAT4OXvhTMDbO6nAf5yHn8W8PeM3JOmyKednA7S7/6p+XG4+3A==",
+      "path": "entityframeworkcore.triggers/1.2.3",
+      "hashPath": "entityframeworkcore.triggers.1.2.3.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -777,6 +803,11 @@
       "sha512": ""
     },
     "Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infraestructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

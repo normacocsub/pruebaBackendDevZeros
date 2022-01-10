@@ -13,3 +13,5 @@ C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\bin\Debug\net6.0\Entity.dll
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\bin\Debug\net6.0\Entity.pdb
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\DAL\bin\Debug\net6.0\Infraestructure.pdb

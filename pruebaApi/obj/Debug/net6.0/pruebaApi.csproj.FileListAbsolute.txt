@@ -64,3 +64,9 @@ C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\obj\Debug\net6.0\p
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\obj\Debug\net6.0\ref\pruebaApi.dll
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\obj\Debug\net6.0\pruebaApi.pdb
 C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\obj\Debug\net6.0\pruebaApi.genruntimeconfig.cache
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\EntityFrameworkCore.Triggers.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\norma\Desktop\Python\Prueba\prueba-backend\pruebaApi\bin\Debug\net6.0\Infraestructure.pdb
